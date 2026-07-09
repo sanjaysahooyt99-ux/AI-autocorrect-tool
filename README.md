@@ -82,6 +82,10 @@ I am goin to collge tomorow
 
 I am going to college tomorrow
 
+## 📸 Screenshot
+
+![AI Autocorrect Tool](screenshots/autocorrect-home.png)
+
 ## Future Enhancements
 
 * Grammar correction
